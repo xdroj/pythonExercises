@@ -1,5 +1,3 @@
-Here's a README file for your Python Secure Password Generator project!
-
 Secure Password Generator
 This Python script provides a robust and customizable password generator designed to create strong, random passwords that meet specified complexity requirements. It leverages Python's secrets module for cryptographic strength, making it suitable for generating passwords for sensitive applications.
 
